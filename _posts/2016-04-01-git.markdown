@@ -6,4 +6,5 @@ link: https://github.com/isop-phmx/studyGroup/issues/3
 date: 2016-04-01
 startTime: '13:00'
 endTime: '14:30'
+
 ---
