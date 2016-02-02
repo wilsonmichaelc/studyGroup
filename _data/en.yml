@@ -7,10 +7,10 @@ tellMeMore: Tell Me More
 activitiesSubheading: 'And you can, too!'
 activities:
   - title: Skill Sharing
-    description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
+    description: 'Share your favorite pharmacometric skills and tools with your friends and colleagues in friendly, no-pressure work-alongs. Skills can involve coding, pharmacometrics models of interest, your favorite workflows, communication skills etc. </p>'
     icon: fa-comment
   - title: Co-Working
-    description: 'Get together to work on your coding projects, help each other out and share your work.'
+    description: 'Get together to work on your pharmacometric projects at different levels, help each other out and share your work.'
     icon: fa-laptop
   - title: Community Building
     description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
