@@ -18,6 +18,7 @@ activities:
 
 events: Events
 eventsSubheading: Our upcoming and recent events
+eventsSubheading: All events will be broadcast live via "Google Hangouts" and detailed notes will be uploaded to the isop github site
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
 leadership: How to lead a Study Group session
