@@ -1,0 +1,9 @@
+---
+title: Introduction to Git and Github
+text: A quick intro to working with Git and Github
+location: N515 Pharmacy Hall, UMB
+link: https://github.com/isop-phmx/studyGroup/issues/4
+date: 2016-04-08
+startTime: '13:00'
+endTime: '14:30'
+---
