@@ -4,7 +4,7 @@ events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: 'And you can, too!'
+activitiesSubheading: '</p> Do you have lab-meetings and learning tutorials in-house in your academic group, company or your neighborhood? Do you know that not all institutes have the same critical mass as yours? Pharmacometrics StudyGroups is giving you an opportunity to share your learning experiences with your peers all around the world. Turn those in-house lab meetings to global knowledge sharing opportunities. Learn how below. </p>'
 activities:
   - title: Skill Sharing
     description: 'Share your favorite pharmacometric skills and tools with your friends and colleagues in friendly, no-pressure work-alongs. Skills can involve coding, pharmacometrics models of interest, your favorite workflows, communication skills etc. </p>'
@@ -17,7 +17,7 @@ activities:
     icon: fa-group
 
 events: Events
-eventsSubheading: Our upcoming and recent events
+#eventsSubheading: Our upcoming and recent events
 eventsSubheading: All events will be broadcast live via "Google Hangouts" and detailed notes will be uploaded to the isop github site
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
