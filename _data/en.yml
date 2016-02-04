@@ -4,19 +4,18 @@ events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: '<p>
-<ul style="list-style-type:none">
-	<li>Do you have lab-meetings and learning tutorials in-house in your academic group, company or your neighborhood?</li>
+activitiesSubheading: 
 	
-	<li>Do you know that not all institutes have the same critical mass of expert scientists as yours?</li>
+	'<p> Do you have lab-meetings and learning tutorials in-house in your academic group, company or your neighborhood? </p>'
 	
-	<li>Pharmacometrics StudyGroups is giving you an opportunity to share your learning experiences with your peers all around the world.</li>
+	'<p>Do you know that not all institutes have the same critical mass of expert scientists as yours?</p>'
 	
-	<li>Turn those in-house lab meetings to global knowledge sharing opportunities.</li>
+	'<p>Pharmacometrics StudyGroups is giving you an opportunity to share your learning experiences with your peers all around the world.</p>'
+	
+	'<p>Turn those in-house lab meetings to global knowledge sharing opportunities.</p>'
 
-</ul> 
-
-Learn how below. </p>'
+	'<p> Learn how below. </p>'
+	
 activities:
   - title: Skill Sharing
     description: 'Share your favorite pharmacometric skills and tools with your friends and colleagues in friendly, no-pressure work-alongs. Skills can involve coding, pharmacometrics models of interest, your favorite workflows, communication skills etc. </p>'
