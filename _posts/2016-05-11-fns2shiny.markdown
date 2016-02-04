@@ -1,0 +1,9 @@
+---
+title: R for Pharmacometrics - 4 Convert your functions to Shiny Apps
+text: Convert your functions into simple interactive shiny apps
+location: N531 Pharmacy Hall, UMB
+link: https://github.com/isop-phmx/studyGroup/issues/9
+date: 2016-05-11
+startTime: '13:00'
+endTime: '14:30'
+---
