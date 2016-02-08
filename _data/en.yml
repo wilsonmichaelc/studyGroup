@@ -4,7 +4,7 @@ events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: '<p style="text-align: left;">
+activitiesSubheading: '<p style="text-align: left; font-style: normal;">
 Do you have lab-meetings and learning tutorials in-house in your academic group, company or your neighborhood? 
 Do you know that not all institutes have the same critical mass of pharmacometric experts as yours? 
 Pharmacometrics StudyGroups is a platform to share your learning experiences with your peers allaround the world. 
